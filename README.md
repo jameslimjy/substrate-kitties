@@ -1,6 +1,6 @@
 Build pallet: `cargo build -p pallet-kitties`
 
-Compile blockchain: `cargo build --release`
+Compile node: `cargo build --release`
 
 Start blockchain node: `./target/release/node-kitties --tmp --dev`
 
